@@ -74,7 +74,7 @@
   <a href="mailto:pankajsuman806041@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="50" height="50"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="https://www.linkedin.com/in/pankaj-s-15633a259/">
+  <a href="https://www.linkedin.com/in/pankaj-s-15633a259/" target="https://www.linkedin.com/in/pankaj-s-15633a259/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://github.com/psrkrk">
